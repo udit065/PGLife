@@ -1,6 +1,6 @@
 # PGLife
 
-I did Web Development Training with INTERNSHALA and then put them to work with this PGLife Website.
+PGLife Website
 
 #HOMEPAGE
 
